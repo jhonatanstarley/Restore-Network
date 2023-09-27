@@ -1,3 +1,5 @@
+rem SAIBA COMO USAR O SCRIPT ABAIXO ACESSANDO O LINK https://github.com/jhonatanstarley/Restore-Network
+
 @echo off
 chcp 65001
 cls
