@@ -1,7 +1,7 @@
 # Restore-Network
 Restaura a internet com problemas de conexão quase 100% das vezes.
 
-Claro, aqui está um tutorial para adicionar ao seu `Script Restaurar Internet.txt` do Git para explicar como usar o script:
+Aqui está um tutorial para `Script Restaurar Internet` sobre como usar o script:
 
 ## Como usar o Script Restaura Internet
 
